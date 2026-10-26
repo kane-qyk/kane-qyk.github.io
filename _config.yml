@@ -1,10 +1,10 @@
 ### Site Settings ###
-title: kanebyqian
+title: kane-qyk
 description: >- 
   Just do it.
 baseurl: ""
 url: ""
-repository: kanebyqian/kanebyqian.github.io
+repository: kane-qyk/kane-qyk.github.io
 
 ### categories、tags path ###
 archive_dir: pages/archive
@@ -31,7 +31,7 @@ author:
   name              : kane
   image             : https://s2.loli.net/2022/03/22/JyQx6VB8vIiZsr2.jpg
   email             : kane.qyk@outlook.com
-  github            : kanebyqian
+  github            : kane-qyk
 # twitter           : your_username
 # linkedin          : your_username
 # facebook          : your_username
@@ -60,8 +60,8 @@ comments:
   gitalk:
     clientID    : Ov23linPa7i7HIQKWQs5 # GitHub Application Client ID
     clientSecret: 24241304cf9d4c5f0608408d873b687776d7e596 # GitHub Application Client Secret
-    repository  : kanebyqian.github.io # GitHub repo
-    owner       : kanebyqian # GitHub repo owner
+    repository  : kane-qyk.github.io # GitHub repo
+    owner       : kane-qyk # GitHub repo owner
     admin: kanebyqian # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
 
   ### Valine ###
@@ -118,9 +118,9 @@ defaults:
 permalink: blog/:title
 
 ### About Footer ###
-sitelink: https://kanebyqian.github.io/
-repositoryurl: https://github.com/kanebyqian/kanebyqian.github.io
-zipurl: https://github.com/kanebyqian/kanebyqian.github.io/archive/refs/heads/master.zip
+sitelink: https://kane-qyk.github.io/
+repositoryurl: https://github.com/kane-qyk/kane-qyk.github.io
+zipurl: https://github.com/kane-qyk/kane-qyk.github.io/archive/refs/heads/master.zip
 
 
 ### Exclude from processing. ###
